@@ -6,7 +6,7 @@ The project is written in Python3.6.8 using the following backend: Intel i7-9750
 
 ## Data
 
-Two datasets are Involved, including InitTraffic and TestTraffic in data/.
+Two datasets are Involved, including InitTraffic and TestTraffic in [dataset](./dataset).
 
 ## Code 
 Code is wiritten in Jupyter Notebook.
