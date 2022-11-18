@@ -13,7 +13,7 @@ Code is wiritten in Jupyter Notebook.
 
 ## Reference
 
-'''
+````
 @article{LI2022109368,
 title = {Robust network traffic identification with graph matching},
 journal = {Computer Networks},
@@ -25,4 +25,4 @@ doi = {https://doi.org/10.1016/j.comnet.2022.109368},
 url = {https://www.sciencedirect.com/science/article/pii/S1389128622004029},
 author = {Wenhao Li and Xiao-Yu Zhang and Huaifeng Bao and Qiang Wang and Zhaoxuan Li}
 }
-'''
+````
